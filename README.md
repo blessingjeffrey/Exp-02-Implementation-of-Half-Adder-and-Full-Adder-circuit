@@ -1,5 +1,5 @@
-NAME:M.SRIKARAN<br>
-REFERENCE NUMBER:23010618
+NAME: BLESSING JEFFREY Y.L<br>
+REFERENCE NUMBER: 212223220014
 # Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
@@ -22,11 +22,11 @@ Full adder is a digital circuit used to calculate the sum of three binary bits. 
 
 Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = AB + ACin + BCin
 
- ![image](https://user-images.githubusercontent.com/36288975/163552156-a13e5a56-c638-4110-97d9-8896907c8d25.png)
+![image](https://github.com/blessingjeffrey/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149134943/79546dc8-1196-4f62-82e9-3e504d9034ee)
 
 #### Figure -01 HALF ADDER 
 
-![image](https://user-images.githubusercontent.com/36288975/163552057-b3547877-6d07-45b4-b7e0-bcfebfad9e1d.png)
+![image](https://github.com/blessingjeffrey/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149134943/ec6faec5-401d-4068-a9f9-fb6fa413eaff)
 
 #### Figure -02 FULL ADDER 
 
@@ -64,29 +64,30 @@ endmodule
 ### TRUTH TABLE 
 Half Adder Circuit:
 
-![image](https://github.com/Srikaran077/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151993143/03d17aba-2ad1-4cc0-9903-56aae4b7e1c8)
+![image](https://github.com/blessingjeffrey/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149134943/4081b06d-2771-4a88-bd2b-7cd41cf63742)
 
 Full Adder Circuit:-
 
-![image](https://github.com/Srikaran077/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151993143/c2b4621c-146d-451b-849a-34fac4af773b)
+![image](https://github.com/blessingjeffrey/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149134943/d0b9a62d-42f6-45ab-800c-c9d402aaa8f2)
 
 ### RTL
 Half Adder Circuit:
 
-![image](https://github.com/Srikaran077/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151993143/fae5b22f-cb73-4f4c-b37c-13d3b3f62fb9)
+![image](https://github.com/blessingjeffrey/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149134943/6bfb4aba-6a02-4e03-b160-e122ca77a462)
 
 Full Adder Circuit:-
 
-![image](https://github.com/Srikaran077/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151993143/7e5d8d1d-f3c2-4f9a-a3cb-871f6d97443b)
+![image](https://github.com/blessingjeffrey/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149134943/b8e4fa3d-6957-4139-816e-aa26844adda9)
+
 
 ### Output:
 Half Adder Circuit:-
 
-![image](https://github.com/Srikaran077/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151993143/5ca79bbe-1303-4719-9058-cfafbd7a1df4)
+![image](https://github.com/blessingjeffrey/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149134943/6310e7fa-94f7-4d9f-a51d-9d71d065c9d8)
 
 Full Adder Circuit:-
 
-![image](https://github.com/Srikaran077/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151993143/60360302-57dd-4106-8c2f-c2ae32560836)
+![image](https://github.com/blessingjeffrey/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149134943/b37752e1-eebd-478d-a4cd-18d0cbecfe46)
 
 ### Result:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
